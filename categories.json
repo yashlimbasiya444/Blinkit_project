@@ -1,0 +1,1882 @@
+[
+    {
+        "name": "Chicken, Meat & Fish",
+        "cate_details": [
+            {
+                "categories_name": "Exotic Meat",
+                "categories_url": "https://blinkit.com/cn/exotic-meat/cid/4/1201"
+            },
+            {
+                "categories_name": "Fish & Seafood",
+                "categories_url": "https://blinkit.com/cn/fish-seafood/cid/4/1361"
+            },
+            {
+                "categories_name": "Chicken",
+                "categories_url": "https://blinkit.com/cn/chicken/cid/4/1362"
+            },
+            {
+                "categories_name": "Mutton",
+                "categories_url": "https://blinkit.com/cn/mutton/cid/4/1363"
+            },
+            {
+                "categories_name": "Sausage, Salami & Ham",
+                "categories_url": "https://blinkit.com/cn/sausage-salami-ham/cid/4/1388"
+            }
+        ]
+    },
+    {
+        "name": "Pet Care",
+        "cate_details": [
+            {
+                "categories_name": "Dog Food & Treats",
+                "categories_url": "https://blinkit.com/cn/dog-food-treats/cid/5/133"
+            },
+            {
+                "categories_name": "Cat Food & Treats",
+                "categories_url": "https://blinkit.com/cn/cat-food-treats/cid/5/134"
+            },
+            {
+                "categories_name": "Pet Grooming & Accessories",
+                "categories_url": "https://blinkit.com/cn/pet-grooming-accessories/cid/5/403"
+            },
+            {
+                "categories_name": "Cat Treats",
+                "categories_url": "https://blinkit.com/cn/cat-treats/cid/5/291"
+            },
+            {
+                "categories_name": "Accessories & Other Supplies",
+                "categories_url": "https://blinkit.com/cn/accessories-other-supplies/cid/5/192"
+            },
+            {
+                "categories_name": "Dog Treat",
+                "categories_url": "https://blinkit.com/cn/dog-treat/cid/5/227"
+            },
+            {
+                "categories_name": "Other Pet Supplies",
+                "categories_url": "https://blinkit.com/cn/other-pet-supplies/cid/5/1466"
+            },
+            {
+                "categories_name": "Pet Health & Supplements",
+                "categories_url": "https://blinkit.com/cn/pet-health-supplements/cid/5/992"
+            },
+            {
+                "categories_name": "Pet Litter",
+                "categories_url": "https://blinkit.com/cn/pet-litter/cid/5/991"
+            },
+            {
+                "categories_name": "Pet Toys",
+                "categories_url": "https://blinkit.com/cn/pet-toys/cid/5/1614"
+            }
+        ]
+    },
+    {
+        "name": "Baby Care",
+        "cate_details": [
+            {
+                "categories_name": "Baby Diapers",
+                "categories_url": "https://blinkit.com/cn/baby-diapers/cid/7/84"
+            },
+            {
+                "categories_name": "Baby Feeding Needs",
+                "categories_url": "https://blinkit.com/cn/baby-feeding-needs/cid/7/169"
+            },
+            {
+                "categories_name": "Baby Wipes",
+                "categories_url": "https://blinkit.com/cn/baby-wipes/cid/7/996"
+            },
+            {
+                "categories_name": "Hygiene",
+                "categories_url": "https://blinkit.com/cn/hygiene/cid/7/85"
+            },
+            {
+                "categories_name": "Baby's Health & Safety Tools",
+                "categories_url": "https://blinkit.com/cn/babys-health-safety-tools/cid/7/997"
+            },
+            {
+                "categories_name": "Oral & Nasal Care",
+                "categories_url": "https://blinkit.com/cn/oral-nasal-care/cid/7/998"
+            },
+            {
+                "categories_name": "Baby Gift Hampers",
+                "categories_url": "https://blinkit.com/cn/baby-gift-hampers/cid/7/999"
+            },
+            {
+                "categories_name": "Diapers & Wipes",
+                "categories_url": "https://blinkit.com/cn/diapers-wipes/cid/7/1000"
+            },
+            {
+                "categories_name": "Baby Bathing Needs",
+                "categories_url": "https://blinkit.com/cn/baby-bathing-needs/cid/7/1001"
+            },
+            {
+                "categories_name": "Baby Skin & Hair Care",
+                "categories_url": "https://blinkit.com/cn/baby-skin-hair-care/cid/7/1002"
+            },
+            {
+                "categories_name": "Baby Food",
+                "categories_url": "https://blinkit.com/cn/baby-food/cid/7/1590"
+            },
+            {
+                "categories_name": "Mom Care",
+                "categories_url": "https://blinkit.com/cn/mom-care/cid/7/1967"
+            },
+            {
+                "categories_name": "Other Diapering Needs",
+                "categories_url": "https://blinkit.com/cn/other-diapering-needs/cid/7/1966"
+            },
+            {
+                "categories_name": "Nursing",
+                "categories_url": "https://blinkit.com/cn/nursing/cid/7/597"
+            }
+        ]
+    },
+    {
+        "name": "Magazines",
+        "cate_details": [
+            {
+                "categories_name": "Current Affairs & Business",
+                "categories_url": "https://blinkit.com/cn/current-affairs-business/cid/851/1015"
+            },
+            {
+                "categories_name": "Business Bookss",
+                "categories_url": "https://blinkit.com/cn/business-bookss/cid/851/763"
+            },
+            {
+                "categories_name": "Current Affairs Books",
+                "categories_url": "https://blinkit.com/cn/current-affairs-books/cid/851/761"
+            },
+            {
+                "categories_name": "Children's Books",
+                "categories_url": "https://blinkit.com/cn/childrens-books/cid/851/649"
+            },
+            {
+                "categories_name": "Lifestyle Books",
+                "categories_url": "https://blinkit.com/cn/lifestyle-books/cid/851/648"
+            },
+            {
+                "categories_name": "Hobby Books",
+                "categories_url": "https://blinkit.com/cn/hobby-books/cid/851/1342"
+            },
+            {
+                "categories_name": "Architecture Books",
+                "categories_url": "https://blinkit.com/cn/architecture-books/cid/851/1430"
+            }
+        ]
+    },
+    {
+        "name": "Sweet Tooth",
+        "cate_details": [
+            {
+                "categories_name": "Flavoured Yogurts",
+                "categories_url": "https://blinkit.com/cn/flavoured-yogurts/cid/9/106"
+            },
+            {
+                "categories_name": "Ice Cream & Frozen Dessert",
+                "categories_url": "https://blinkit.com/cn/ice-cream-frozen-dessert/cid/9/183"
+            },
+            {
+                "categories_name": "Indian Sweets",
+                "categories_url": "https://blinkit.com/cn/indian-sweets/cid/9/943"
+            },
+            {
+                "categories_name": "Chocolates",
+                "categories_url": "https://blinkit.com/cn/chocolates/cid/9/944"
+            },
+            {
+                "categories_name": "Chocolate Packs",
+                "categories_url": "https://blinkit.com/cn/chocolate-packs/cid/9/1173"
+            },
+            {
+                "categories_name": "Chocolate Syrup",
+                "categories_url": "https://blinkit.com/cn/chocolate-syrup/cid/9/1289"
+            },
+            {
+                "categories_name": "Candies & Gum",
+                "categories_url": "https://blinkit.com/cn/candies-gum/cid/9/1930"
+            },
+            {
+                "categories_name": "Mouth Fresheners",
+                "categories_url": "https://blinkit.com/cn/mouth-fresheners/cid/9/1933"
+            },
+            {
+                "categories_name": "Cakes and Rolls",
+                "categories_url": "https://blinkit.com/cn/cakes-and-rolls/cid/9/108"
+            },
+            {
+                "categories_name": "Chocolate Bars",
+                "categories_url": "https://blinkit.com/cn/chocolate-bars/cid/9/1736"
+            },
+            {
+                "categories_name": "Filled Bars",
+                "categories_url": "https://blinkit.com/cn/filled-bars/cid/9/1737"
+            },
+            {
+                "categories_name": "Wafer Chocolates",
+                "categories_url": "https://blinkit.com/cn/wafer-chocolates/cid/9/1172"
+            },
+            {
+                "categories_name": "Syrups",
+                "categories_url": "https://blinkit.com/cn/syrups/cid/9/1298"
+            }
+        ]
+    },
+    {
+        "name": "Tea, Coffee & Health Drinks",
+        "cate_details": [
+            {
+                "categories_name": "Vegan Drinks",
+                "categories_url": "https://blinkit.com/cn/vegan-drinks/cid/12/87"
+            },
+            {
+                "categories_name": "Tea",
+                "categories_url": "https://blinkit.com/cn/tea/cid/12/957"
+            },
+            {
+                "categories_name": "Health Drinks",
+                "categories_url": "https://blinkit.com/cn/health-drinks/cid/12/960"
+            },
+            {
+                "categories_name": "Herbal Drinks",
+                "categories_url": "https://blinkit.com/cn/herbal-drinks/cid/12/1109"
+            },
+            {
+                "categories_name": "Milk Drinks",
+                "categories_url": "https://blinkit.com/cn/milk-drinks/cid/12/1184"
+            },
+            {
+                "categories_name": "Coffee",
+                "categories_url": "https://blinkit.com/cn/coffee/cid/12/1322"
+            },
+            {
+                "categories_name": "Leaf & Dust Tea",
+                "categories_url": "https://blinkit.com/cn/leaf-dust-tea/cid/12/25"
+            },
+            {
+                "categories_name": "Black Tea",
+                "categories_url": "https://blinkit.com/cn/black-tea/cid/12/1561"
+            },
+            {
+                "categories_name": "Vegan Milk",
+                "categories_url": "https://blinkit.com/cn/vegan-milk/cid/12/948"
+            },
+            {
+                "categories_name": "Hot Chocolate Drink",
+                "categories_url": "https://blinkit.com/cn/hot-chocolate-drink/cid/12/90"
+            },
+            {
+                "categories_name": "Health Drinks & Supplements",
+                "categories_url": "https://blinkit.com/cn/health-drinks-supplements/cid/12/21"
+            },
+            {
+                "categories_name": "Chocolate Health Drinks",
+                "categories_url": "https://blinkit.com/cn/chocolate-health-drinks/cid/12/1106"
+            },
+            {
+                "categories_name": "Exotic & Flavoured Tea",
+                "categories_url": "https://blinkit.com/cn/exotic-flavoured-tea/cid/12/1562"
+            },
+            {
+                "categories_name": "Green Tea",
+                "categories_url": "https://blinkit.com/cn/green-tea/cid/12/1104"
+            },
+            {
+                "categories_name": "Roasted & Ground Coffee",
+                "categories_url": "https://blinkit.com/cn/roasted-ground-coffee/cid/12/720"
+            },
+            {
+                "categories_name": "Instant Coffee",
+                "categories_url": "https://blinkit.com/cn/instant-coffee/cid/12/958"
+            },
+            {
+                "categories_name": "Filter Coffee",
+                "categories_url": "https://blinkit.com/cn/filter-coffee/cid/12/1589"
+            },
+            {
+                "categories_name": "Coffee Bags",
+                "categories_url": "https://blinkit.com/cn/coffee-bags/cid/12/1105"
+            }
+        ]
+    },
+    {
+        "name": "Beauty & Cosmetics",
+        "cate_details": [
+            {
+                "categories_name": "Hair Care",
+                "categories_url": "https://blinkit.com/cn/hair-care/cid/13/77"
+            },
+            {
+                "categories_name": "Beauty and Makeup",
+                "categories_url": "https://blinkit.com/cn/beauty-and-makeup/cid/13/98"
+            },
+            {
+                "categories_name": "Eyeliner",
+                "categories_url": "https://blinkit.com/cn/eyeliner/cid/13/100"
+            },
+            {
+                "categories_name": "Mascara",
+                "categories_url": "https://blinkit.com/cn/mascara/cid/13/102"
+            },
+            {
+                "categories_name": "Lipstick",
+                "categories_url": "https://blinkit.com/cn/lipstick/cid/13/1611"
+            },
+            {
+                "categories_name": "BB & CC cream",
+                "categories_url": "https://blinkit.com/cn/bb-cc-cream/cid/13/208"
+            },
+            {
+                "categories_name": "Makeup brushes",
+                "categories_url": "https://blinkit.com/cn/makeup-brushes/cid/13/215"
+            },
+            {
+                "categories_name": "Compact",
+                "categories_url": "https://blinkit.com/cn/compact/cid/13/218"
+            },
+            {
+                "categories_name": "Foundation",
+                "categories_url": "https://blinkit.com/cn/foundation/cid/13/207"
+            },
+            {
+                "categories_name": "Nail color remover",
+                "categories_url": "https://blinkit.com/cn/nail-color-remover/cid/13/1725"
+            },
+            {
+                "categories_name": "After shave",
+                "categories_url": "https://blinkit.com/cn/after-shave/cid/13/309"
+            },
+            {
+                "categories_name": "Hair color",
+                "categories_url": "https://blinkit.com/cn/hair-color/cid/13/247"
+            },
+            {
+                "categories_name": "Nail color/paints",
+                "categories_url": "https://blinkit.com/cn/nail-colorpaints/cid/13/1123"
+            },
+            {
+                "categories_name": "Primer",
+                "categories_url": "https://blinkit.com/cn/primer/cid/13/214"
+            },
+            {
+                "categories_name": "Hair tools & accessories",
+                "categories_url": "https://blinkit.com/cn/hair-tools-accessories/cid/13/159"
+            },
+            {
+                "categories_name": "Eye accessories",
+                "categories_url": "https://blinkit.com/cn/eye-accessories/cid/13/186"
+            },
+            {
+                "categories_name": "Nail accessories",
+                "categories_url": "https://blinkit.com/cn/nail-accessories/cid/13/170"
+            },
+            {
+                "categories_name": "Body accessories",
+                "categories_url": "https://blinkit.com/cn/body-accessories/cid/13/160"
+            },
+            {
+                "categories_name": "Face Accessories",
+                "categories_url": "https://blinkit.com/cn/face-accessories/cid/13/171"
+            },
+            {
+                "categories_name": "Hair Serum",
+                "categories_url": "https://blinkit.com/cn/hair-serum/cid/13/1604"
+            },
+            {
+                "categories_name": "Hair Oil",
+                "categories_url": "https://blinkit.com/cn/hair-oil/cid/13/1016"
+            },
+            {
+                "categories_name": "Hair Mask",
+                "categories_url": "https://blinkit.com/cn/hair-mask/cid/13/329"
+            },
+            {
+                "categories_name": "Women's Razors & Trimmers",
+                "categories_url": "https://blinkit.com/cn/womens-razors-trimmers/cid/13/339"
+            },
+            {
+                "categories_name": "Hair Removal",
+                "categories_url": "https://blinkit.com/cn/hair-removal/cid/13/703"
+            },
+            {
+                "categories_name": "Facial Kit",
+                "categories_url": "https://blinkit.com/cn/facial-kit/cid/13/344"
+            },
+            {
+                "categories_name": "Lip Scrubs, Masks & Serums",
+                "categories_url": "https://blinkit.com/cn/lip-scrubs-masks-serums/cid/13/369"
+            },
+            {
+                "categories_name": "Lip Balm",
+                "categories_url": "https://blinkit.com/cn/lip-balm/cid/13/276"
+            },
+            {
+                "categories_name": "Eye Creams & Masks",
+                "categories_url": "https://blinkit.com/cn/eye-creams-masks/cid/13/237"
+            },
+            {
+                "categories_name": "Lip Tint",
+                "categories_url": "https://blinkit.com/cn/lip-tint/cid/13/260"
+            },
+            {
+                "categories_name": "Lip Primer",
+                "categories_url": "https://blinkit.com/cn/lip-primer/cid/13/141"
+            },
+            {
+                "categories_name": "Lip Liner",
+                "categories_url": "https://blinkit.com/cn/lip-liner/cid/13/121"
+            },
+            {
+                "categories_name": "Lip Gloss",
+                "categories_url": "https://blinkit.com/cn/lip-gloss/cid/13/124"
+            },
+            {
+                "categories_name": "Shampoo",
+                "categories_url": "https://blinkit.com/cn/shampoo/cid/13/223"
+            },
+            {
+                "categories_name": "Hair Spray, Gel & Wax",
+                "categories_url": "https://blinkit.com/cn/hair-spray-gel-wax/cid/13/246"
+            },
+            {
+                "categories_name": "Hair Oil, Masks & Serums",
+                "categories_url": "https://blinkit.com/cn/hair-oil-masks-serums/cid/13/245"
+            },
+            {
+                "categories_name": "Conditioners",
+                "categories_url": "https://blinkit.com/cn/conditioners/cid/13/235"
+            },
+            {
+                "categories_name": "Fragrance Gift Sets",
+                "categories_url": "https://blinkit.com/cn/fragrance-gift-sets/cid/13/588"
+            },
+            {
+                "categories_name": "Women's Fragrance",
+                "categories_url": "https://blinkit.com/cn/womens-fragrance/cid/13/753"
+            },
+            {
+                "categories_name": "Men's Fragrance",
+                "categories_url": "https://blinkit.com/cn/mens-fragrance/cid/13/754"
+            },
+            {
+                "categories_name": "Makeup Fixer",
+                "categories_url": "https://blinkit.com/cn/makeup-fixer/cid/13/935"
+            },
+            {
+                "categories_name": "Contour & Bronzer",
+                "categories_url": "https://blinkit.com/cn/contour-bronzer/cid/13/248"
+            },
+            {
+                "categories_name": "Concealer",
+                "categories_url": "https://blinkit.com/cn/concealer/cid/13/213"
+            },
+            {
+                "categories_name": "Toners & Mists",
+                "categories_url": "https://blinkit.com/cn/toners-mists/cid/13/240"
+            },
+            {
+                "categories_name": "Face Cream & Gel",
+                "categories_url": "https://blinkit.com/cn/face-cream-gel/cid/13/164"
+            }
+        ]
+    },
+    {
+        "name": "Dairy, Bread & Eggs",
+        "cate_details": [
+            {
+                "categories_name": "Cheese",
+                "categories_url": "https://blinkit.com/cn/cheese/cid/14/33"
+            },
+            {
+                "categories_name": "Curd & Yogurt",
+                "categories_url": "https://blinkit.com/cn/curd-yogurt/cid/14/123"
+            },
+            {
+                "categories_name": "Condensed Milk",
+                "categories_url": "https://blinkit.com/cn/condensed-milk/cid/14/130"
+            },
+            {
+                "categories_name": "Gourmet Cheese",
+                "categories_url": "https://blinkit.com/cn/gourmet-cheese/cid/14/185"
+            },
+            {
+                "categories_name": "Buns & Pav",
+                "categories_url": "https://blinkit.com/cn/buns-pav/cid/14/279"
+            },
+            {
+                "categories_name": "Milk",
+                "categories_url": "https://blinkit.com/cn/milk/cid/14/922"
+            },
+            {
+                "categories_name": "Paneer & Tofu",
+                "categories_url": "https://blinkit.com/cn/paneer-tofu/cid/14/923"
+            },
+            {
+                "categories_name": "Butter & More",
+                "categories_url": "https://blinkit.com/cn/butter-more/cid/14/952"
+            },
+            {
+                "categories_name": "Bread",
+                "categories_url": "https://blinkit.com/cn/bread/cid/14/953"
+            },
+            {
+                "categories_name": "Cream & Whitener",
+                "categories_url": "https://blinkit.com/cn/cream-whitener/cid/14/1092"
+            },
+            {
+                "categories_name": "Oats",
+                "categories_url": "https://blinkit.com/cn/oats/cid/14/584"
+            },
+            {
+                "categories_name": "Granola",
+                "categories_url": "https://blinkit.com/cn/granola/cid/14/613"
+            },
+            {
+                "categories_name": "Muesli",
+                "categories_url": "https://blinkit.com/cn/muesli/cid/14/1307"
+            },
+            {
+                "categories_name": "Kids Cereals",
+                "categories_url": "https://blinkit.com/cn/kids-cereals/cid/14/1739"
+            },
+            {
+                "categories_name": "Flakes",
+                "categories_url": "https://blinkit.com/cn/flakes/cid/14/1098"
+            },
+            {
+                "categories_name": "Curd",
+                "categories_url": "https://blinkit.com/cn/curd/cid/14/949"
+            },
+            {
+                "categories_name": "Yogurt",
+                "categories_url": "https://blinkit.com/cn/yogurt/cid/14/1094"
+            },
+            {
+                "categories_name": "Eggs",
+                "categories_url": "https://blinkit.com/cn/eggs/cid/14/1200"
+            },
+            {
+                "categories_name": "Peanut Butter",
+                "categories_url": "https://blinkit.com/cn/peanut-butter/cid/14/644"
+            },
+            {
+                "categories_name": "Poha",
+                "categories_url": "https://blinkit.com/cn/poha/cid/14/1288"
+            },
+            {
+                "categories_name": "Chocolate Spreads",
+                "categories_url": "https://blinkit.com/cn/chocolate-spreads/cid/14/504"
+            },
+            {
+                "categories_name": "Honey",
+                "categories_url": "https://blinkit.com/cn/honey/cid/14/610"
+            }
+        ]
+    },
+    {
+        "name": "Breakfast & Instant Food",
+        "cate_details": [
+            {
+                "categories_name": "Energy Bars",
+                "categories_url": "https://blinkit.com/cn/energy-bars/cid/15/152"
+            },
+            {
+                "categories_name": "Breakfast Cereal",
+                "categories_url": "https://blinkit.com/cn/breakfast-cereal/cid/15/954"
+            },
+            {
+                "categories_name": "Noodles",
+                "categories_url": "https://blinkit.com/cn/noodles/cid/15/962"
+            },
+            {
+                "categories_name": "Soup",
+                "categories_url": "https://blinkit.com/cn/soup/cid/15/964"
+            },
+            {
+                "categories_name": "Instant Mixes",
+                "categories_url": "https://blinkit.com/cn/instant-mixes/cid/15/965"
+            },
+            {
+                "categories_name": "Pasta",
+                "categories_url": "https://blinkit.com/cn/pasta/cid/15/968"
+            },
+            {
+                "categories_name": "Plant Based Meat",
+                "categories_url": "https://blinkit.com/cn/plant-based-meat/cid/15/1127"
+            },
+            {
+                "categories_name": "Vermicelli",
+                "categories_url": "https://blinkit.com/cn/vermicelli/cid/15/1140"
+            },
+            {
+                "categories_name": "Ready to Eat",
+                "categories_url": "https://blinkit.com/cn/ready-to-eat/cid/15/1294"
+            },
+            {
+                "categories_name": "Frozen Non-Veg Snacks",
+                "categories_url": "https://blinkit.com/cn/frozen-non-veg-snacks/cid/15/1412"
+            },
+            {
+                "categories_name": "Frozen Veg Snacks",
+                "categories_url": "https://blinkit.com/cn/frozen-veg-snacks/cid/15/1413"
+            },
+            {
+                "categories_name": "Batter",
+                "categories_url": "https://blinkit.com/cn/batter/cid/15/1425"
+            },
+            {
+                "categories_name": "Herbs & Seasoning",
+                "categories_url": "https://blinkit.com/cn/herbs-seasoning/cid/15/1968"
+            }
+        ]
+    },
+    {
+        "name": "Atta, Rice & Dal",
+        "cate_details": [
+            {
+                "categories_name": "Moong & Masoor",
+                "categories_url": "https://blinkit.com/cn/moong-masoor/cid/16/505"
+            },
+            {
+                "categories_name": "Rice",
+                "categories_url": "https://blinkit.com/cn/rice/cid/16/1161"
+            },
+            {
+                "categories_name": "Besan, Sooji & Maida",
+                "categories_url": "https://blinkit.com/cn/besan-sooji-maida/cid/16/1166"
+            },
+            {
+                "categories_name": "Poha, Daliya & Other Grains",
+                "categories_url": "https://blinkit.com/cn/poha-daliya-other-grains/cid/16/1295"
+            },
+            {
+                "categories_name": "Rajma, Chhole & Others",
+                "categories_url": "https://blinkit.com/cn/rajma-chhole-others/cid/16/1573"
+            },
+            {
+                "categories_name": "Urad",
+                "categories_url": "https://blinkit.com/cn/urad/cid/16/1197"
+            },
+            {
+                "categories_name": "Pesticide-Free Pulses",
+                "categories_url": "https://blinkit.com/cn/pesticide-free-pulses/cid/16/11"
+            },
+            {
+                "categories_name": "Chana",
+                "categories_url": "https://blinkit.com/cn/chana/cid/16/1702"
+            },
+            {
+                "categories_name": "Toor",
+                "categories_url": "https://blinkit.com/cn/toor/cid/16/1010"
+            },
+            {
+                "categories_name": "Arhar",
+                "categories_url": "https://blinkit.com/cn/arhar/cid/16/1195"
+            },
+            {
+                "categories_name": "Sonamasuri & Kolam Rice",
+                "categories_url": "https://blinkit.com/cn/sonamasuri-kolam-rice/cid/16/1192"
+            },
+            {
+                "categories_name": "Ponni Rice",
+                "categories_url": "https://blinkit.com/cn/ponni-rice/cid/16/1482"
+            },
+            {
+                "categories_name": "Basmati Rice",
+                "categories_url": "https://blinkit.com/cn/basmati-rice/cid/16/1164"
+            },
+            {
+                "categories_name": "Soya",
+                "categories_url": "https://blinkit.com/cn/soya/cid/16/1297"
+            },
+            {
+                "categories_name": "Rajma",
+                "categories_url": "https://blinkit.com/cn/rajma/cid/16/1198"
+            },
+            {
+                "categories_name": "Flours",
+                "categories_url": "https://blinkit.com/cn/flours/cid/16/48"
+            },
+            {
+                "categories_name": "Moong",
+                "categories_url": "https://blinkit.com/cn/moong/cid/16/1196"
+            },
+            {
+                "categories_name": "Sooji",
+                "categories_url": "https://blinkit.com/cn/sooji/cid/16/1194"
+            },
+            {
+                "categories_name": "Maida",
+                "categories_url": "https://blinkit.com/cn/maida/cid/16/1483"
+            },
+            {
+                "categories_name": "Besan",
+                "categories_url": "https://blinkit.com/cn/besan/cid/16/1193"
+            },
+            {
+                "categories_name": "Atta",
+                "categories_url": "https://blinkit.com/cn/atta/cid/16/1165"
+            },
+            {
+                "categories_name": "Kabuli Chana",
+                "categories_url": "https://blinkit.com/cn/kabuli-chana/cid/16/8"
+            },
+            {
+                "categories_name": "Dried Peas",
+                "categories_url": "https://blinkit.com/cn/dried-peas/cid/16/1009"
+            }
+        ]
+    },
+    {
+        "name": "Cleaning Essentials",
+        "cate_details": [
+            {
+                "categories_name": "Shoe Polish & Brush",
+                "categories_url": "https://blinkit.com/cn/shoe-polish-brush/cid/18/57"
+            },
+            {
+                "categories_name": "Detergent Powder & Bars",
+                "categories_url": "https://blinkit.com/cn/detergent-powder-bars/cid/18/983"
+            },
+            {
+                "categories_name": "Laundry Additives",
+                "categories_url": "https://blinkit.com/cn/laundry-additives/cid/18/985"
+            },
+            {
+                "categories_name": "Toilet Cleaners & More",
+                "categories_url": "https://blinkit.com/cn/toilet-cleaners-more/cid/18/987"
+            },
+            {
+                "categories_name": "Liquid Detergents",
+                "categories_url": "https://blinkit.com/cn/liquid-detergents/cid/18/1077"
+            },
+            {
+                "categories_name": "Cleaning Tools",
+                "categories_url": "https://blinkit.com/cn/cleaning-tools/cid/18/1082"
+            },
+            {
+                "categories_name": "Disinfectant & More",
+                "categories_url": "https://blinkit.com/cn/disinfectant-more/cid/18/1784"
+            },
+            {
+                "categories_name": "Garbage Bags",
+                "categories_url": "https://blinkit.com/cn/garbage-bags/cid/18/1833"
+            },
+            {
+                "categories_name": "Car Fresheners",
+                "categories_url": "https://blinkit.com/cn/car-fresheners/cid/18/1089"
+            },
+            {
+                "categories_name": "Air Fresheners",
+                "categories_url": "https://blinkit.com/cn/air-fresheners/cid/18/982"
+            },
+            {
+                "categories_name": "Floor Cleaners & More",
+                "categories_url": "https://blinkit.com/cn/floor-cleaners-more/cid/18/51"
+            },
+            {
+                "categories_name": "Multi-Purpose Disinfectants",
+                "categories_url": "https://blinkit.com/cn/multi-purpose-disinfectants/cid/18/1983"
+            },
+            {
+                "categories_name": "Dishwashing Gels & Powders",
+                "categories_url": "https://blinkit.com/cn/dishwashing-gels-powders/cid/18/1078"
+            },
+            {
+                "categories_name": "Dishwashing Bars",
+                "categories_url": "https://blinkit.com/cn/dishwashing-bars/cid/18/988"
+            },
+            {
+                "categories_name": "Scrubbers & Cleaning Aids",
+                "categories_url": "https://blinkit.com/cn/scrubbers-cleaning-aids/cid/18/1079"
+            },
+            {
+                "categories_name": "Dishwashing Accessories",
+                "categories_url": "https://blinkit.com/cn/dishwashing-accessories/cid/18/986"
+            },
+            {
+                "categories_name": "Detergent Bars",
+                "categories_url": "https://blinkit.com/cn/detergent-bars/cid/18/984"
+            },
+            {
+                "categories_name": "Detergent Powder & Bars",
+                "categories_url": "https://blinkit.com/cn/detergent-powder-bars/cid/18/54"
+            },
+            {
+                "categories_name": "Brooms & Mops",
+                "categories_url": "https://blinkit.com/cn/brooms-mops/cid/18/1280"
+            },
+            {
+                "categories_name": "Wipers",
+                "categories_url": "https://blinkit.com/cn/wipers/cid/18/1271"
+            }
+        ]
+    },
+    {
+        "name": "Digital Goods",
+        "cate_details": [
+            {
+                "categories_name": "Antivirus",
+                "categories_url": "https://blinkit.com/cn/antivirus/cid/416/58"
+            },
+            {
+                "categories_name": "System Utilities",
+                "categories_url": "https://blinkit.com/cn/system-utilities/cid/416/60"
+            }
+        ]
+    },
+    {
+        "name": "Personal Care",
+        "cate_details": [
+            {
+                "categories_name": "Shampoo & Conditioner",
+                "categories_url": "https://blinkit.com/cn/shampoo-conditioner/cid/163/166"
+            },
+            {
+                "categories_name": "Body Moisturizers & More",
+                "categories_url": "https://blinkit.com/cn/body-moisturizers-more/cid/163/690"
+            },
+            {
+                "categories_name": "Hair Colour & More",
+                "categories_url": "https://blinkit.com/cn/hair-colour-more/cid/163/691"
+            },
+            {
+                "categories_name": "Men's Grooming",
+                "categories_url": "https://blinkit.com/cn/mens-grooming/cid/163/692"
+            },
+            {
+                "categories_name": "Cosmetics",
+                "categories_url": "https://blinkit.com/cn/cosmetics/cid/163/693"
+            },
+            {
+                "categories_name": "Soaps",
+                "categories_url": "https://blinkit.com/cn/soaps/cid/163/696"
+            },
+            {
+                "categories_name": "Hand & Foot Care",
+                "categories_url": "https://blinkit.com/cn/hand-foot-care/cid/163/698"
+            },
+            {
+                "categories_name": "Handwash",
+                "categories_url": "https://blinkit.com/cn/handwash/cid/163/699"
+            },
+            {
+                "categories_name": "Hair Oil & Serum",
+                "categories_url": "https://blinkit.com/cn/hair-oil-serum/cid/163/702"
+            },
+            {
+                "categories_name": "Bath & Body Kits",
+                "categories_url": "https://blinkit.com/cn/bath-body-kits/cid/163/710"
+            },
+            {
+                "categories_name": "Oral Care",
+                "categories_url": "https://blinkit.com/cn/oral-care/cid/163/722"
+            },
+            {
+                "categories_name": "Feminine Care",
+                "categories_url": "https://blinkit.com/cn/feminine-care/cid/163/723"
+            },
+            {
+                "categories_name": "Shower Gels & Scrubs",
+                "categories_url": "https://blinkit.com/cn/shower-gels-scrubs/cid/163/981"
+            },
+            {
+                "categories_name": "Deodorants & Powders",
+                "categories_url": "https://blinkit.com/cn/deodorants-powders/cid/163/1115"
+            },
+            {
+                "categories_name": "Facial Care",
+                "categories_url": "https://blinkit.com/cn/facial-care/cid/163/1117"
+            },
+            {
+                "categories_name": "Women's Grooming",
+                "categories_url": "https://blinkit.com/cn/womens-grooming/cid/163/1893"
+            },
+            {
+                "categories_name": "Jewellery",
+                "categories_url": "https://blinkit.com/cn/jewellery/cid/163/1920"
+            }
+        ]
+    },
+    {
+        "name": "Organic & Gourmet",
+        "cate_details": [
+            {
+                "categories_name": "Baby Food",
+                "categories_url": "https://blinkit.com/cn/baby-food/cid/175/47"
+            },
+            {
+                "categories_name": "Snacks & Munchies",
+                "categories_url": "https://blinkit.com/cn/snacks-munchies/cid/175/82"
+            },
+            {
+                "categories_name": "Breakfast & More",
+                "categories_url": "https://blinkit.com/cn/breakfast-more/cid/175/96"
+            },
+            {
+                "categories_name": "Healthy Proteins",
+                "categories_url": "https://blinkit.com/cn/healthy-proteins/cid/175/97"
+            },
+            {
+                "categories_name": "Beverages",
+                "categories_url": "https://blinkit.com/cn/beverages/cid/175/655"
+            },
+            {
+                "categories_name": "Oil & Ghee",
+                "categories_url": "https://blinkit.com/cn/oil-ghee/cid/175/799"
+            },
+            {
+                "categories_name": "Pulses & Millets",
+                "categories_url": "https://blinkit.com/cn/pulses-millets/cid/175/800"
+            },
+            {
+                "categories_name": "Flour",
+                "categories_url": "https://blinkit.com/cn/flour/cid/175/801"
+            },
+            {
+                "categories_name": "Spices & Vinegar",
+                "categories_url": "https://blinkit.com/cn/spices-vinegar/cid/175/803"
+            },
+            {
+                "categories_name": "Dairy Products",
+                "categories_url": "https://blinkit.com/cn/dairy-products/cid/175/882"
+            },
+            {
+                "categories_name": "Veggies and Fruits",
+                "categories_url": "https://blinkit.com/cn/veggies-and-fruits/cid/175/919"
+            },
+            {
+                "categories_name": "Cookies & Wafers",
+                "categories_url": "https://blinkit.com/cn/cookies-wafers/cid/175/939"
+            },
+            {
+                "categories_name": "Cooking Essentials",
+                "categories_url": "https://blinkit.com/cn/cooking-essentials/cid/175/946"
+            },
+            {
+                "categories_name": "Chocolates & Candies",
+                "categories_url": "https://blinkit.com/cn/chocolates-candies/cid/175/1044"
+            },
+            {
+                "categories_name": "Sauces & Spreads",
+                "categories_url": "https://blinkit.com/cn/sauces-spreads/cid/175/1128"
+            },
+            {
+                "categories_name": "Noodles & Pasta",
+                "categories_url": "https://blinkit.com/cn/noodles-pasta/cid/175/1313"
+            },
+            {
+                "categories_name": "Tea & Coffee",
+                "categories_url": "https://blinkit.com/cn/tea-coffee/cid/175/1563"
+            },
+            {
+                "categories_name": "Rice & Rice Products",
+                "categories_url": "https://blinkit.com/cn/rice-rice-products/cid/175/1935"
+            },
+            {
+                "categories_name": "Organic Salt",
+                "categories_url": "https://blinkit.com/cn/organic-salt/cid/175/1936"
+            },
+            {
+                "categories_name": "Dry Fruits, Nuts & Seeds",
+                "categories_url": "https://blinkit.com/cn/dry-fruits-nuts-seeds/cid/175/1937"
+            }
+        ]
+    },
+    {
+        "name": "Paan Corner",
+        "cate_details": [
+            {
+                "categories_name": "Hookah Needs",
+                "categories_url": "https://blinkit.com/cn/hookah-needs/cid/229/173"
+            },
+            {
+                "categories_name": "Paan",
+                "categories_url": "https://blinkit.com/cn/paan/cid/229/342"
+            },
+            {
+                "categories_name": "Cigarettes & Tobacco",
+                "categories_url": "https://blinkit.com/cn/cigarettes-tobacco/cid/229/1948"
+            },
+            {
+                "categories_name": "Smoking Needs",
+                "categories_url": "https://blinkit.com/cn/smoking-needs/cid/229/1982"
+            }
+        ]
+    },
+    {
+        "name": "Pharma & Wellness",
+        "cate_details": [
+            {
+                "categories_name": "Healthcare Devices",
+                "categories_url": "https://blinkit.com/cn/healthcare-devices/cid/287/62"
+            },
+            {
+                "categories_name": "Cough & Cold",
+                "categories_url": "https://blinkit.com/cn/cough-cold/cid/287/75"
+            },
+            {
+                "categories_name": "Adult Nutritional Drinks",
+                "categories_url": "https://blinkit.com/cn/adult-nutritional-drinks/cid/287/2186"
+            },
+            {
+                "categories_name": "Personal Body Massagers",
+                "categories_url": "https://blinkit.com/cn/personal-body-massagers/cid/287/1350"
+            },
+            {
+                "categories_name": "Lubricants and Enhancers",
+                "categories_url": "https://blinkit.com/cn/lubricants-and-enhancers/cid/287/756"
+            },
+            {
+                "categories_name": "Wound Care And Pain Relief",
+                "categories_url": "https://blinkit.com/cn/wound-care-and-pain-relief/cid/287/155"
+            },
+            {
+                "categories_name": "Everyday Medicines",
+                "categories_url": "https://blinkit.com/cn/everyday-medicines/cid/287/289"
+            },
+            {
+                "categories_name": "Skin Treatment",
+                "categories_url": "https://blinkit.com/cn/skin-treatment/cid/287/199"
+            },
+            {
+                "categories_name": "Vitamins & Daily Nutrition",
+                "categories_url": "https://blinkit.com/cn/vitamins-daily-nutrition/cid/287/293"
+            },
+            {
+                "categories_name": "Smoking Cessation",
+                "categories_url": "https://blinkit.com/cn/smoking-cessation/cid/287/290"
+            },
+            {
+                "categories_name": "Digestive Care",
+                "categories_url": "https://blinkit.com/cn/digestive-care/cid/287/298"
+            },
+            {
+                "categories_name": "Supplements",
+                "categories_url": "https://blinkit.com/cn/supplements/cid/287/308"
+            },
+            {
+                "categories_name": "Adult Diapers",
+                "categories_url": "https://blinkit.com/cn/adult-diapers/cid/287/629"
+            },
+            {
+                "categories_name": "Condoms",
+                "categories_url": "https://blinkit.com/cn/condoms/cid/287/707"
+            },
+            {
+                "categories_name": "Other Pharma",
+                "categories_url": "https://blinkit.com/cn/other-pharma/cid/287/1120"
+            },
+            {
+                "categories_name": "Beauty Supplements",
+                "categories_url": "https://blinkit.com/cn/beauty-supplements/cid/287/295"
+            },
+            {
+                "categories_name": "Antiseptic Liquid",
+                "categories_url": "https://blinkit.com/cn/antiseptic-liquid/cid/287/1121"
+            },
+            {
+                "categories_name": "Masks & Sanitizers",
+                "categories_url": "https://blinkit.com/cn/masks-sanitizers/cid/287/1826"
+            },
+            {
+                "categories_name": "Pre & Post Workout",
+                "categories_url": "https://blinkit.com/cn/pre-post-workout/cid/287/306"
+            },
+            {
+                "categories_name": "Sexual Wellness",
+                "categories_url": "https://blinkit.com/cn/sexual-wellness/cid/287/741"
+            }
+        ]
+    },
+    {
+        "name": "Cold Drinks & Juices",
+        "cate_details": [
+            {
+                "categories_name": "Energy Drinks",
+                "categories_url": "https://blinkit.com/cn/energy-drinks/cid/332/19"
+            },
+            {
+                "categories_name": "Coldpress",
+                "categories_url": "https://blinkit.com/cn/coldpress/cid/332/91"
+            },
+            {
+                "categories_name": "Coconut Water",
+                "categories_url": "https://blinkit.com/cn/coconut-water/cid/332/1594"
+            },
+            {
+                "categories_name": "Concentrates & Syrups",
+                "categories_url": "https://blinkit.com/cn/concentrates-syrups/cid/332/109"
+            },
+            {
+                "categories_name": "Sharbat",
+                "categories_url": "https://blinkit.com/cn/sharbat/cid/332/24"
+            },
+            {
+                "categories_name": "Mango Drink",
+                "categories_url": "https://blinkit.com/cn/mango-drink/cid/332/1108"
+            },
+            {
+                "categories_name": "Flavored Milk",
+                "categories_url": "https://blinkit.com/cn/flavored-milk/cid/332/36"
+            },
+            {
+                "categories_name": "Lassi",
+                "categories_url": "https://blinkit.com/cn/lassi/cid/332/1093"
+            },
+            {
+                "categories_name": "Specialty Milk",
+                "categories_url": "https://blinkit.com/cn/specialty-milk/cid/332/1091"
+            },
+            {
+                "categories_name": "Soda",
+                "categories_url": "https://blinkit.com/cn/soda/cid/332/1600"
+            },
+            {
+                "categories_name": "Cold Drink in Bottles",
+                "categories_url": "https://blinkit.com/cn/cold-drink-in-bottles/cid/332/23"
+            },
+            {
+                "categories_name": "Cocktail Mixers/Tonic Waters",
+                "categories_url": "https://blinkit.com/cn/cocktail-mixerstonic-waters/cid/332/1103"
+            },
+            {
+                "categories_name": "Cold Drink in a Can",
+                "categories_url": "https://blinkit.com/cn/cold-drink-in-a-can/cid/332/1107"
+            },
+            {
+                "categories_name": "Ice Cubes",
+                "categories_url": "https://blinkit.com/cn/ice-cubes/cid/332/219"
+            },
+            {
+                "categories_name": "Mineral Water",
+                "categories_url": "https://blinkit.com/cn/mineral-water/cid/332/22"
+            },
+            {
+                "categories_name": "Non-Alcoholic Drinks",
+                "categories_url": "https://blinkit.com/cn/non-alcoholic-drinks/cid/332/1486"
+            },
+            {
+                "categories_name": "Glucose Energy Drink",
+                "categories_url": "https://blinkit.com/cn/glucose-energy-drink/cid/332/640"
+            },
+            {
+                "categories_name": "Water & Ice Cubes",
+                "categories_url": "https://blinkit.com/cn/water-ice-cubes/cid/332/270"
+            },
+            {
+                "categories_name": "Fruit Juices",
+                "categories_url": "https://blinkit.com/cn/fruit-juices/cid/332/955"
+            },
+            {
+                "categories_name": "Cold Coffee",
+                "categories_url": "https://blinkit.com/cn/cold-coffee/cid/332/412"
+            },
+            {
+                "categories_name": "Iced Tea",
+                "categories_url": "https://blinkit.com/cn/iced-tea/cid/332/93"
+            },
+            {
+                "categories_name": "100% Juice",
+                "categories_url": "https://blinkit.com/cn/100-juice/cid/332/1318"
+            },
+            {
+                "categories_name": "Soft Drinks",
+                "categories_url": "https://blinkit.com/cn/soft-drinks/cid/332/1102"
+            },
+            {
+                "categories_name": "Soda & Mixers",
+                "categories_url": "https://blinkit.com/cn/soda-mixers/cid/332/1599"
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream & Frozen Desserts",
+        "cate_details": [
+            {
+                "categories_name": "Tubs",
+                "categories_url": "https://blinkit.com/cn/tubs/cid/1969/1962"
+            },
+            {
+                "categories_name": "Sticks",
+                "categories_url": "https://blinkit.com/cn/sticks/cid/1969/263"
+            },
+            {
+                "categories_name": "Sandwiches, Cakes, and Other",
+                "categories_url": "https://blinkit.com/cn/sandwiches-cakes-and-other/cid/1969/333"
+            },
+            {
+                "categories_name": "Cups",
+                "categories_url": "https://blinkit.com/cn/cups/cid/1969/262"
+            },
+            {
+                "categories_name": "Cones",
+                "categories_url": "https://blinkit.com/cn/cones/cid/1969/1410"
+            }
+        ]
+    },
+    {
+        "name": "Bakery & Biscuits",
+        "cate_details": [
+            {
+                "categories_name": "Cookies",
+                "categories_url": "https://blinkit.com/cn/cookies/cid/888/28"
+            },
+            {
+                "categories_name": "Cream Biscuits",
+                "categories_url": "https://blinkit.com/cn/cream-biscuits/cid/888/105"
+            },
+            {
+                "categories_name": "Rusks & Wafers",
+                "categories_url": "https://blinkit.com/cn/rusks-wafers/cid/888/107"
+            },
+            {
+                "categories_name": "Sweet & Salty",
+                "categories_url": "https://blinkit.com/cn/sweet-salty/cid/888/144"
+            },
+            {
+                "categories_name": "Glucose & Marie",
+                "categories_url": "https://blinkit.com/cn/glucose-marie/cid/888/209"
+            },
+            {
+                "categories_name": "Healthy & Digestive",
+                "categories_url": "https://blinkit.com/cn/healthy-digestive/cid/888/938"
+            },
+            {
+                "categories_name": "Baking Ingredients & Mixes",
+                "categories_url": "https://blinkit.com/cn/baking-ingredients-mixes/cid/888/971"
+            },
+            {
+                "categories_name": "Gourmet Bakery",
+                "categories_url": "https://blinkit.com/cn/gourmet-bakery/cid/888/1663"
+            },
+            {
+                "categories_name": "Specialty Breads",
+                "categories_url": "https://blinkit.com/cn/specialty-breads/cid/888/1097"
+            },
+            {
+                "categories_name": "Milk & White Breads",
+                "categories_url": "https://blinkit.com/cn/milk-white-breads/cid/888/31"
+            },
+            {
+                "categories_name": "Fresh Muffins & Cake",
+                "categories_url": "https://blinkit.com/cn/fresh-muffins-cake/cid/888/176"
+            },
+            {
+                "categories_name": "Fresh Bakery",
+                "categories_url": "https://blinkit.com/cn/fresh-bakery/cid/888/477"
+            },
+            {
+                "categories_name": "Buns, Pavs & Pizza Base",
+                "categories_url": "https://blinkit.com/cn/buns-pavs-pizza-base/cid/888/1956"
+            },
+            {
+                "categories_name": "Brown & Multigrain Breads",
+                "categories_url": "https://blinkit.com/cn/brown-multigrain-breads/cid/888/198"
+            }
+        ]
+    },
+    {
+        "name": "Sauces & Spreads",
+        "cate_details": [
+            {
+                "categories_name": "Cooking Sauces & Paste",
+                "categories_url": "https://blinkit.com/cn/cooking-sauces-paste/cid/972/929"
+            },
+            {
+                "categories_name": "Dips & Spreads",
+                "categories_url": "https://blinkit.com/cn/dips-spreads/cid/972/974"
+            },
+            {
+                "categories_name": "Jams",
+                "categories_url": "https://blinkit.com/cn/jams/cid/972/975"
+            },
+            {
+                "categories_name": "Honey",
+                "categories_url": "https://blinkit.com/cn/honey/cid/972/976"
+            },
+            {
+                "categories_name": "Chocolate Spreads",
+                "categories_url": "https://blinkit.com/cn/chocolate-spreads/cid/972/978"
+            },
+            {
+                "categories_name": "Chutney & Pickle",
+                "categories_url": "https://blinkit.com/cn/chutney-pickle/cid/972/1126"
+            },
+            {
+                "categories_name": "Asian Sauces",
+                "categories_url": "https://blinkit.com/cn/asian-sauces/cid/972/1130"
+            },
+            {
+                "categories_name": "Tomato & Chilli Ketchups",
+                "categories_url": "https://blinkit.com/cn/tomato-chilli-ketchups/cid/972/1131"
+            },
+            {
+                "categories_name": "Chyawanprash",
+                "categories_url": "https://blinkit.com/cn/chyawanprash/cid/972/1135"
+            },
+            {
+                "categories_name": "Salad Dressings",
+                "categories_url": "https://blinkit.com/cn/salad-dressings/cid/972/1375"
+            },
+            {
+                "categories_name": "Peanut Butter",
+                "categories_url": "https://blinkit.com/cn/peanut-butter/cid/972/1918"
+            }
+        ]
+    },
+    {
+        "name": "Munchies",
+        "cate_details": [
+            {
+                "categories_name": "Namkeen Snacks",
+                "categories_url": "https://blinkit.com/cn/namkeen-snacks/cid/1237/29"
+            },
+            {
+                "categories_name": "Papad & Fryums",
+                "categories_url": "https://blinkit.com/cn/papad-fryums/cid/1237/80"
+            },
+            {
+                "categories_name": "Popcorn",
+                "categories_url": "https://blinkit.com/cn/popcorn/cid/1237/156"
+            },
+            {
+                "categories_name": "Nachos",
+                "categories_url": "https://blinkit.com/cn/nachos/cid/1237/316"
+            },
+            {
+                "categories_name": "Healthy Snacks",
+                "categories_url": "https://blinkit.com/cn/healthy-snacks/cid/1237/816"
+            },
+            {
+                "categories_name": "Chips & Crisps",
+                "categories_url": "https://blinkit.com/cn/chips-crisps/cid/1237/940"
+            },
+            {
+                "categories_name": "Bhujia & Mixtures",
+                "categories_url": "https://blinkit.com/cn/bhujia-mixtures/cid/1237/1178"
+            }
+        ]
+    },
+    {
+        "name": "Home & Office",
+        "cate_details": [
+            {
+                "categories_name": "Soft Toys & Greeting Cards",
+                "categories_url": "https://blinkit.com/cn/soft-toys-greeting-cards/cid/1379/394"
+            },
+            {
+                "categories_name": "Games",
+                "categories_url": "https://blinkit.com/cn/games/cid/1379/1868"
+            },
+            {
+                "categories_name": "Collectible Toy Guns & Accessories",
+                "categories_url": "https://blinkit.com/cn/collectible-toy-guns-accessories/cid/1379/596"
+            },
+            {
+                "categories_name": "DIY and Learning",
+                "categories_url": "https://blinkit.com/cn/diy-and-learning/cid/1379/591"
+            },
+            {
+                "categories_name": "Bags",
+                "categories_url": "https://blinkit.com/cn/bags/cid/1379/120"
+            },
+            {
+                "categories_name": "Party Essentials",
+                "categories_url": "https://blinkit.com/cn/party-essentials/cid/1379/126"
+            },
+            {
+                "categories_name": "Kids Toys & More",
+                "categories_url": "https://blinkit.com/cn/kids-toys-more/cid/1379/305"
+            },
+            {
+                "categories_name": "Repellents",
+                "categories_url": "https://blinkit.com/cn/repellents/cid/1379/926"
+            },
+            {
+                "categories_name": "Bathroom Essentials",
+                "categories_url": "https://blinkit.com/cn/bathroom-essentials/cid/1379/1014"
+            },
+            {
+                "categories_name": "Pooja Needs",
+                "categories_url": "https://blinkit.com/cn/pooja-needs/cid/1379/1048"
+            },
+            {
+                "categories_name": "Stationery Needs",
+                "categories_url": "https://blinkit.com/cn/stationery-needs/cid/1379/1049"
+            },
+            {
+                "categories_name": "Kitchen & Dining Needs",
+                "categories_url": "https://blinkit.com/cn/kitchen-dining-needs/cid/1379/1052"
+            },
+            {
+                "categories_name": "Tissues & Disposables",
+                "categories_url": "https://blinkit.com/cn/tissues-disposables/cid/1379/1075"
+            },
+            {
+                "categories_name": "Fresheners",
+                "categories_url": "https://blinkit.com/cn/fresheners/cid/1379/1085"
+            },
+            {
+                "categories_name": "Electrical Accessories",
+                "categories_url": "https://blinkit.com/cn/electrical-accessories/cid/1379/1187"
+            },
+            {
+                "categories_name": "Electronic Accessories",
+                "categories_url": "https://blinkit.com/cn/electronic-accessories/cid/1379/1387"
+            },
+            {
+                "categories_name": "Home Decor & Storage",
+                "categories_url": "https://blinkit.com/cn/home-decor-storage/cid/1379/1433"
+            },
+            {
+                "categories_name": "Festive & Occasion Needs",
+                "categories_url": "https://blinkit.com/cn/festive-occasion-needs/cid/1379/1674"
+            },
+            {
+                "categories_name": "Clothing, Footwear & Accessories",
+                "categories_url": "https://blinkit.com/cn/clothing-footwear-accessories/cid/1379/1715"
+            },
+            {
+                "categories_name": "Home & Kitchen Appliances",
+                "categories_url": "https://blinkit.com/cn/home-kitchen-appliances/cid/1379/1886"
+            },
+            {
+                "categories_name": "Books",
+                "categories_url": "https://blinkit.com/cn/books/cid/1379/1970"
+            },
+            {
+                "categories_name": "Sports, Fitness & Outdoors",
+                "categories_url": "https://blinkit.com/cn/sports-fitness-outdoors/cid/1379/1992"
+            },
+            {
+                "categories_name": "Trimmers",
+                "categories_url": "https://blinkit.com/cn/trimmers/cid/1379/2108"
+            },
+            {
+                "categories_name": "Hair Dryer",
+                "categories_url": "https://blinkit.com/cn/hair-dryer/cid/1379/2109"
+            },
+            {
+                "categories_name": "Weighing Machines & Massagers",
+                "categories_url": "https://blinkit.com/cn/weighing-machines-massagers/cid/1379/2110"
+            },
+            {
+                "categories_name": "Mixer Grinders",
+                "categories_url": "https://blinkit.com/cn/mixer-grinders/cid/1379/1882"
+            },
+            {
+                "categories_name": "Fans",
+                "categories_url": "https://blinkit.com/cn/fans/cid/1379/2106"
+            },
+            {
+                "categories_name": "Electric Kettles",
+                "categories_url": "https://blinkit.com/cn/electric-kettles/cid/1379/2111"
+            },
+            {
+                "categories_name": "Choppers",
+                "categories_url": "https://blinkit.com/cn/choppers/cid/1379/1068"
+            },
+            {
+                "categories_name": "Iron",
+                "categories_url": "https://blinkit.com/cn/iron/cid/1379/1890"
+            },
+            {
+                "categories_name": "Toasters",
+                "categories_url": "https://blinkit.com/cn/toasters/cid/1379/1883"
+            },
+            {
+                "categories_name": "Clocks & Calculators",
+                "categories_url": "https://blinkit.com/cn/clocks-calculators/cid/1379/2107"
+            }
+        ]
+    },
+    {
+        "name": "Vegetables & Fruits",
+        "cate_details": [
+            {
+                "categories_name": "Exotics & Premium",
+                "categories_url": "https://blinkit.com/cn/exotics-premium/cid/1487/278"
+            },
+            {
+                "categories_name": "Freshly Cut & Sprouts",
+                "categories_url": "https://blinkit.com/cn/freshly-cut-sprouts/cid/1487/395"
+            },
+            {
+                "categories_name": "Gourmet Mushroom",
+                "categories_url": "https://blinkit.com/cn/gourmet-mushroom/cid/1487/482"
+            },
+            {
+                "categories_name": "Organic & Hydroponic",
+                "categories_url": "https://blinkit.com/cn/organic-hydroponic/cid/1487/742"
+            },
+            {
+                "categories_name": "Combo Offer",
+                "categories_url": "https://blinkit.com/cn/combo-offer/cid/1487/928"
+            },
+            {
+                "categories_name": "Fruits",
+                "categories_url": "https://blinkit.com/cn/fruits/cid/1487/1503"
+            },
+            {
+                "categories_name": "Flowers & Leaves",
+                "categories_url": "https://blinkit.com/cn/flowers-leaves/cid/1487/1452"
+            },
+            {
+                "categories_name": "Fresh Juice & Dips",
+                "categories_url": "https://blinkit.com/cn/fresh-juice-dips/cid/1487/1941"
+            },
+            {
+                "categories_name": "Frozen Indian Breads",
+                "categories_url": "https://blinkit.com/cn/frozen-indian-breads/cid/1487/116"
+            },
+            {
+                "categories_name": "Frozen Veg",
+                "categories_url": "https://blinkit.com/cn/frozen-veg/cid/1487/157"
+            },
+            {
+                "categories_name": "Fresh Vegetables",
+                "categories_url": "https://blinkit.com/cn/fresh-vegetables/cid/1487/1489"
+            },
+            {
+                "categories_name": "Frozen Peas & Corn",
+                "categories_url": "https://blinkit.com/cn/frozen-peas-corn/cid/1487/172"
+            },
+            {
+                "categories_name": "Frozen Potato Snacks",
+                "categories_url": "https://blinkit.com/cn/frozen-potato-snacks/cid/1487/122"
+            },
+            {
+                "categories_name": "Other Frozen Vegetables",
+                "categories_url": "https://blinkit.com/cn/other-frozen-vegetables/cid/1487/222"
+            },
+            {
+                "categories_name": "Hydroponics",
+                "categories_url": "https://blinkit.com/cn/hydroponics/cid/1487/39"
+            },
+            {
+                "categories_name": "Leafies & Herbs",
+                "categories_url": "https://blinkit.com/cn/leafies-herbs/cid/1487/1871"
+            },
+            {
+                "categories_name": "Other Frozen Snacks",
+                "categories_url": "https://blinkit.com/cn/other-frozen-snacks/cid/1487/125"
+            }
+        ]
+    },
+    {
+        "name": "Masala, Oil & More",
+        "cate_details": [
+            {
+                "categories_name": "Powdered Masala",
+                "categories_url": "https://blinkit.com/cn/powdered-masala/cid/1557/50"
+            },
+            {
+                "categories_name": "Dates & Seeds",
+                "categories_url": "https://blinkit.com/cn/dates-seeds/cid/1557/815"
+            },
+            {
+                "categories_name": "Oil",
+                "categories_url": "https://blinkit.com/cn/oil/cid/1557/917"
+            },
+            {
+                "categories_name": "Whole Spices",
+                "categories_url": "https://blinkit.com/cn/whole-spices/cid/1557/930"
+            },
+            {
+                "categories_name": "Salt, Sugar & Jaggery",
+                "categories_url": "https://blinkit.com/cn/salt-sugar-jaggery/cid/1557/933"
+            },
+            {
+                "categories_name": "Ghee & Vanaspati",
+                "categories_url": "https://blinkit.com/cn/ghee-vanaspati/cid/1557/1158"
+            },
+            {
+                "categories_name": "Dry Fruits",
+                "categories_url": "https://blinkit.com/cn/dry-fruits/cid/1557/1160"
+            }
+        ]
+    },
+    {
+        "name": "Toys & Games",
+        "cate_details": [
+            {
+                "categories_name": "Rattles",
+                "categories_url": "https://blinkit.com/cn/rattles/cid/675/739"
+            },
+            {
+                "categories_name": "Light & Musical Toys",
+                "categories_url": "https://blinkit.com/cn/light-musical-toys/cid/675/680"
+            },
+            {
+                "categories_name": "Tents & Pools",
+                "categories_url": "https://blinkit.com/cn/tents-pools/cid/675/480"
+            },
+            {
+                "categories_name": "Sports Toys",
+                "categories_url": "https://blinkit.com/cn/sports-toys/cid/675/483"
+            },
+            {
+                "categories_name": "Teddy Bears",
+                "categories_url": "https://blinkit.com/cn/teddy-bears/cid/675/496"
+            },
+            {
+                "categories_name": "Cartoon Characters",
+                "categories_url": "https://blinkit.com/cn/cartoon-characters/cid/675/487"
+            },
+            {
+                "categories_name": "Animal Toys",
+                "categories_url": "https://blinkit.com/cn/animal-toys/cid/675/495"
+            },
+            {
+                "categories_name": "Novelty Toys",
+                "categories_url": "https://blinkit.com/cn/novelty-toys/cid/675/409"
+            },
+            {
+                "categories_name": "Writing Pad Toys, Laptop Toys & Tablet Toys",
+                "categories_url": "https://blinkit.com/cn/writing-pad-toys-laptop-toys-tablet-toys/cid/675/499"
+            },
+            {
+                "categories_name": "Science Project Kits",
+                "categories_url": "https://blinkit.com/cn/science-project-kits/cid/675/500"
+            },
+            {
+                "categories_name": "Learning Toys",
+                "categories_url": "https://blinkit.com/cn/learning-toys/cid/675/677"
+            },
+            {
+                "categories_name": "Building & Block Toys",
+                "categories_url": "https://blinkit.com/cn/building-block-toys/cid/675/678"
+            },
+            {
+                "categories_name": "Dolls & Accessories",
+                "categories_url": "https://blinkit.com/cn/dolls-accessories/cid/675/242"
+            },
+            {
+                "categories_name": "Puzzles",
+                "categories_url": "https://blinkit.com/cn/puzzles/cid/675/479"
+            },
+            {
+                "categories_name": "Games for Adults",
+                "categories_url": "https://blinkit.com/cn/games-for-adults/cid/675/734"
+            },
+            {
+                "categories_name": "Cube Games",
+                "categories_url": "https://blinkit.com/cn/cube-games/cid/675/396"
+            },
+            {
+                "categories_name": "Card Games",
+                "categories_url": "https://blinkit.com/cn/card-games/cid/675/486"
+            },
+            {
+                "categories_name": "Board Games",
+                "categories_url": "https://blinkit.com/cn/board-games/cid/675/484"
+            },
+            {
+                "categories_name": "Slime",
+                "categories_url": "https://blinkit.com/cn/slime/cid/675/413"
+            },
+            {
+                "categories_name": "Clay & Dough",
+                "categories_url": "https://blinkit.com/cn/clay-dough/cid/675/474"
+            },
+            {
+                "categories_name": "Art & Craft Kits",
+                "categories_url": "https://blinkit.com/cn/art-craft-kits/cid/675/475"
+            },
+            {
+                "categories_name": "Remote Control Toys",
+                "categories_url": "https://blinkit.com/cn/remote-control-toys/cid/675/497"
+            },
+            {
+                "categories_name": "Model Toy Vehiclesme",
+                "categories_url": "https://blinkit.com/cn/model-toy-vehiclesme/cid/675/498"
+            },
+            {
+                "categories_name": "Battle Toys",
+                "categories_url": "https://blinkit.com/cn/battle-toys/cid/675/410"
+            },
+            {
+                "categories_name": "Action Figures",
+                "categories_url": "https://blinkit.com/cn/action-figures/cid/675/397"
+            },
+            {
+                "categories_name": "Toddler & Baby Toys",
+                "categories_url": "https://blinkit.com/cn/toddler-baby-toys/cid/675/683"
+            },
+            {
+                "categories_name": "Soft Toys",
+                "categories_url": "https://blinkit.com/cn/soft-toys/cid/675/257"
+            },
+            {
+                "categories_name": "Learning & Education Toys",
+                "categories_url": "https://blinkit.com/cn/learning-education-toys/cid/675/256"
+            },
+            {
+                "categories_name": "Dolls & Play Sets",
+                "categories_url": "https://blinkit.com/cn/dolls-play-sets/cid/675/266"
+            },
+            {
+                "categories_name": "Cards, Puzzles & Board Games: Classic Entertainment for All",
+                "categories_url": "https://blinkit.com/cn/cards-puzzles-board-games-classic-entertainment-for-all/cid/675/258"
+            },
+            {
+                "categories_name": "Art & Craft Games",
+                "categories_url": "https://blinkit.com/cn/art-craft-games/cid/675/231"
+            },
+            {
+                "categories_name": "Action Toys & Toy Vehicles",
+                "categories_url": "https://blinkit.com/cn/action-toys-toy-vehicles/cid/675/151"
+            }
+        ]
+    },
+    {
+        "name": "Books",
+        "cate_details": [
+            {
+                "categories_name": "Travel & Tourism Books",
+                "categories_url": "https://blinkit.com/cn/travel-tourism-books/cid/1559/210"
+            },
+            {
+                "categories_name": "Subject Reference & Learning Books",
+                "categories_url": "https://blinkit.com/cn/subject-reference-learning-books/cid/1559/392"
+            },
+            {
+                "categories_name": "Sports Books",
+                "categories_url": "https://blinkit.com/cn/sports-books/cid/1559/582"
+            },
+            {
+                "categories_name": "Society & Social Sciences Books",
+                "categories_url": "https://blinkit.com/cn/society-social-sciences-books/cid/1559/212"
+            },
+            {
+                "categories_name": "Self Help Books",
+                "categories_url": "https://blinkit.com/cn/self-help-books/cid/1559/515"
+            },
+            {
+                "categories_name": "Science & Technology Books",
+                "categories_url": "https://blinkit.com/cn/science-technology-books/cid/1559/201"
+            },
+            {
+                "categories_name": "Religion & Spirituality Books",
+                "categories_url": "https://blinkit.com/cn/religion-spirituality-books/cid/1559/570"
+            },
+            {
+                "categories_name": "Political Books",
+                "categories_url": "https://blinkit.com/cn/political-books/cid/1559/567"
+            },
+            {
+                "categories_name": "Poetry Books",
+                "categories_url": "https://blinkit.com/cn/poetry-books/cid/1559/563"
+            },
+            {
+                "categories_name": "History Books",
+                "categories_url": "https://blinkit.com/cn/history-books/cid/1559/583"
+            },
+            {
+                "categories_name": "Health, Fitness & Nutrition Books",
+                "categories_url": "https://blinkit.com/cn/health-fitness-nutrition-books/cid/1559/519"
+            },
+            {
+                "categories_name": "Cook Books",
+                "categories_url": "https://blinkit.com/cn/cook-books/cid/1559/526"
+            },
+            {
+                "categories_name": "Business, Economics & Finance Books",
+                "categories_url": "https://blinkit.com/cn/business-economics-finance-books/cid/1559/518"
+            },
+            {
+                "categories_name": "Analysis & Strategy Books",
+                "categories_url": "https://blinkit.com/cn/analysis-strategy-books/cid/1559/517"
+            },
+            {
+                "categories_name": "Activity Books for Adults",
+                "categories_url": "https://blinkit.com/cn/activity-books-for-adults/cid/1559/516"
+            },
+            {
+                "categories_name": "Short Stories Books",
+                "categories_url": "https://blinkit.com/cn/short-stories-books/cid/1559/366"
+            },
+            {
+                "categories_name": "Science Fiction Books",
+                "categories_url": "https://blinkit.com/cn/science-fiction-books/cid/1559/321"
+            },
+            {
+                "categories_name": "Romance Books",
+                "categories_url": "https://blinkit.com/cn/romance-books/cid/1559/1586"
+            },
+            {
+                "categories_name": "Mystery & Thriller Books",
+                "categories_url": "https://blinkit.com/cn/mystery-thriller-books/cid/1559/241"
+            },
+            {
+                "categories_name": "Literature / Classics Books",
+                "categories_url": "https://blinkit.com/cn/literature-classics-books/cid/1559/221"
+            },
+            {
+                "categories_name": "Humour Books",
+                "categories_url": "https://blinkit.com/cn/humour-books/cid/1559/265"
+            },
+            {
+                "categories_name": "Horror Books",
+                "categories_url": "https://blinkit.com/cn/horror-books/cid/1559/236"
+            },
+            {
+                "categories_name": "Historical & Mythological Books",
+                "categories_url": "https://blinkit.com/cn/historical-mythological-books/cid/1559/234"
+            },
+            {
+                "categories_name": "Fantasy Books",
+                "categories_url": "https://blinkit.com/cn/fantasy-books/cid/1559/233"
+            },
+            {
+                "categories_name": "Contemporary Books",
+                "categories_url": "https://blinkit.com/cn/contemporary-books/cid/1559/230"
+            },
+            {
+                "categories_name": "Action & Adventure Books",
+                "categories_url": "https://blinkit.com/cn/action-adventure-books/cid/1559/220"
+            },
+            {
+                "categories_name": "Children's Activity Books",
+                "categories_url": "https://blinkit.com/cn/childrens-activity-books/cid/1559/512"
+            },
+            {
+                "categories_name": "Non Fiction Books",
+                "categories_url": "https://blinkit.com/cn/non-fiction-books/cid/1559/275"
+            },
+            {
+                "categories_name": "Manga & Graphic Novels",
+                "categories_url": "https://blinkit.com/cn/manga-graphic-novels/cid/1559/216"
+            },
+            {
+                "categories_name": "Fiction Books",
+                "categories_url": "https://blinkit.com/cn/fiction-books/cid/1559/274"
+            },
+            {
+                "categories_name": "Children's Books",
+                "categories_url": "https://blinkit.com/cn/childrens-books/cid/1559/273"
+            },
+            {
+                "categories_name": "Biographies & Memoirs",
+                "categories_url": "https://blinkit.com/cn/biographies-memoirs/cid/1559/217"
+            }
+        ]
+    },
+    {
+        "name": "Stores",
+        "cate_details": [
+            {
+                "categories_name": "Print Store",
+                "categories_url": "https://blinkit.com/print"
+            }
+        ]
+    },
+    {
+        "name": "E-Cards",
+        "cate_details": [
+            {
+                "categories_name": "E-Gift Cards",
+                "categories_url": "https://blinkit.com/cn/e-cards/cid/416/4301"
+            }
+        ]
+    }
+]

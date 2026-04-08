@@ -1,3 +1,4 @@
+import re
 import os
 import json
 from lxml import html
@@ -50,6 +51,9 @@ def get_main_categories():
 
         for cat_name in sub_items:
             item_url = cat_name.xpath("string(./@href)")
+            # pattern = re.match(r"^/cid/(\d+)/(\d+)$", item_url)
+            # categories_id = pattern
+            # print(categories_id)
 
             categories_item = {
                 "categories_name": cat_name.xpath("string(.)").strip(),

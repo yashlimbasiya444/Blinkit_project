@@ -1,7 +1,14 @@
-from curl_cffi import requests
+import re
+import asyncio
+from curl_cffi.requests import AsyncSession
 from lxml import html
 from pipline import get_pending_urls
+from pipeline_product import insert_product,create_product_table
 
+
+HEADERS = {
+    "user-agent": "Mozilla/5.0"
+}
 
 COOKIES = {
     'gr_1_lat': '22.469426',
@@ -9,105 +16,107 @@ COOKIES = {
     'gr_1_locality': 'Kolkata',
 }
 
-HEADERS = {
-    'user-agent': 'Mozilla/5.0'
-}
-
 
 def clean(x):
     return x[0].strip() if x else None
 
 
-def get_image(product):
-    paths = [
-        ".//img/@src",
-        ".//img/@data-src",
-        ".//img/@srcset",
-    ]
+def create_slug(name):
+    return name.lower().replace(" ", "-").replace("(", "").replace(")", "")
 
-    for p in paths:
-        img = product.xpath(p)
-        if img:
-            val = img[0].strip()
-            if " " in val:
-                val = val.split(" ")[0]
-            if "http" in val:
-                return val
+
+import random
+import asyncio
+
+
+async def fetch(session, url, retries=3):
+    for attempt in range(retries):
+        try:
+            response = await session.get(
+                url,
+                headers=HEADERS,
+                cookies=COOKIES,
+                impersonate="chrome110",
+                timeout=30
+            )
+
+            return response
+
+        except Exception as e:
+            print(f"Retry {attempt+1} Error:", e)
+
+            await asyncio.sleep(random.uniform(2, 5))
+
     return None
 
 
-def parse_product():
+async def process_url(session, url):
+    response = await fetch(session, url)
+
+    if not response or response.status_code != 200:
+        return
+
+    tree = html.fromstring(response.content)
+
+    # CATEGORY ID (REGEX)
+    canonical = clean(tree.xpath("//link[@rel='canonical']/@href"))
+
+    category_id = None
+    if canonical:
+        match = re.search(r'/cid/(\d+/\d+)', canonical)
+        if match:
+            category_id = match.group(1)
+
+    # CATEGORY NAME
+    category_name = clean(tree.xpath("//h1/text()"))
+
+    # PRODUCTS
+    products = tree.xpath("//div[@id='plpContainer']//div[@id]")
+
+    for product in products:
+
+        product_id = product.get("id")
+
+        product_name = clean(
+            product.xpath(".//div[contains(@class,'tw-line-clamp-2')]/text()")
+        )
+
+        if not product_name:
+            continue
+
+        slug = create_slug(product_name)
+        product_url = f"https://blinkit.com/prn/{slug}/prid/{product_id}"
+
+        data = {
+            "category_id": category_id,
+            "category_name": category_name,
+            "product_id": product_id,
+            "product_name": product_name,
+            "product_url": product_url,
+            "status": "pending"
+        }
+
+        insert_product(data)
+
+
+async def main():
     urls = get_pending_urls()
     print("TOTAL URLS:", len(urls))
 
-    with requests.Session() as session:
-        for url in urls:
-            print("\nURL:", url)
+    # limit for safety (avoid blocking)
+    semaphore = asyncio.Semaphore(5)
 
-            try:
-                response = session.get(
-                    url,
-                    headers=HEADERS,
-                    cookies=COOKIES,
-                    impersonate="chrome110"
-                )
+    async with AsyncSession() as session:
 
-                if response.status_code != 200:
-                    continue
+        async def sem_task(url):
+            async with semaphore:
+                await process_url(session, url)
+                await asyncio.sleep(1)  # delay to avoid block
 
-                tree = html.fromstring(response.content)
-
-                products = tree.xpath(
-                    "//div[contains(@id,'plpContainer')]//div[contains(@class,'tw-flex') and contains(@class,'tw-flex-col')]"
-                )
-
-                seen = set()
-
-                for product in products:
-
-                    name = clean(product.xpath(".//div[contains(@class,'tw-line-clamp-2')]/text()"))
-
-                    if not name:
-                        continue
-                    if name in seen:
-                        continue
-
-                    seen.add(name)
-
-                    weight = clean(product.xpath(".//div[contains(@class,'tw-line-clamp-1')]/text()"))
-
-                    # PRICE FIX
-                    prices = product.xpath(
-                        ".//div[contains(@class,'tw-font-semibold') or contains(@class,'tw-line-through')]//text()"
-                    )
-                    prices = [p.strip() for p in prices if "₹" in p]
-
-                    discount_price = None
-                    original_price = None
-
-                    if len(prices) == 1:
-                        discount_price = prices[0]
-                    elif len(prices) >= 2:
-                        discount_price = prices[0]
-                        original_price = prices[1]
-
-                    discount = "".join(
-                        product.xpath(".//div[contains(@class,'tw-font-extrabold')]/text()")
-                    ).replace("\n", "").strip()
-
-                    image = get_image(product)
-
-                    print("NAME:", name)
-                    print("WEIGHT:", weight or "N/A")
-                    print("PRICE:", discount_price or "N/A")
-                    print("MRP:", original_price or "N/A")
-                    print("DISCOUNT:", discount or "N/A")
-                    print("IMAGE:", image or "N/A")
-                    print("-" * 40)
-
-            except Exception as e:
-                print("ERROR:", e)
+        tasks = [sem_task(url) for url in urls]
+        await asyncio.gather(*tasks)
 
 
 if __name__ == "__main__":
-    parse_product()
+    create_product_table()
+    asyncio.run(main())
